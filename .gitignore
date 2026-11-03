@@ -5,5 +5,11 @@ __pycache__/
 .venv/
 venv/
 env/
+**/.venv/
+**/venv/
+.vscode/
 *.log
-.DS_Store
+alert_state.json
+performance_state.json
+**/.venv/
+**/__pycache__/
